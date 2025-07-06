@@ -23,7 +23,6 @@ This project is part of my web development practice to improve frontend skills, 
 
 ## 📷 Screenshots
  ![Screenshot 2025-07-07 034944](https://github.com/user-attachments/assets/3169f445-4210-41b6-8db8-75cc99a959b1)
-![Screenshot 2025-07-07 034944](https://github.com/user-attachments/assets/0a73203a-c4f6-44e1-9172-3cc820ac89b0)
 
 
 ## 🙌 Author
